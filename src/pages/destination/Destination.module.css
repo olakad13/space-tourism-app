@@ -54,6 +54,10 @@ img {
     border-bottom: 3px solid transparent;
 }
 
+.destination nav a:hover {
+    border-bottom-color: rgba(255, 255, 255, 0.5021);
+}
+
 .name {
     color: #FFF;
     text-align: center;
