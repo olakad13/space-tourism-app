@@ -1,0 +1,111 @@
+.destination {
+    min-height: 100vh;
+    background:url(../../assets/background-destination-mobile.jpg);
+    mix-blend-mode: screen;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    
+}
+
+.header {
+    color: #FFF;
+    font-family: Barlow Condensed;
+    font-size: 16px;
+    letter-spacing: 2.7px;
+    text-transform: uppercase;
+    margin-top: 24px;
+}
+
+.header span {
+    font-weight: 700;
+    opacity: 0.25;
+    margin-right: 18px;
+}
+
+.imageWrapper {
+    width: 208.584px;
+    height: 208.584px;
+    margin-inline: auto;
+    padding: 19px;
+    margin-top: 12.9px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 26px;
+    margin-top: 6.52px;
+    
+}
+
+.destination nav a {
+    color: #D0D6F9;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2.362px;
+    padding-bottom: 1rem;
+    border-bottom: 3px solid transparent;
+}
+
+.name {
+    color: #FFF;
+    text-align: center;
+    font-family: Bellefair;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+}
+
+.infoParagraph {
+    color: #D0D6F9;
+    font-family: Barlow;
+    font-size: 15px;
+    line-height: 166.667%;
+}
+
+.info {
+    margin-top: 65px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    padding-bottom: 57px;
+}
+
+.info p {
+    color: #D0D6F9;
+    text-align: center;
+    font-family: Barlow Condensed;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2.362px;
+    text-transform: uppercase;
+}
+
+.info h4 {
+    color: #FFF;
+    text-align: center;
+    font-family: Bellefair;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.info > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}

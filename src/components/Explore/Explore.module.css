@@ -1,0 +1,15 @@
+.explore {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    color: #0B0D17;
+    font-family: Bellefair;
+    font-size: 20px;
+    letter-spacing: 1.25px;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 81px;
+    margin-inline: auto;
+}
